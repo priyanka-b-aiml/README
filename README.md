@@ -1,16 +1,29 @@
-## Hi there 👋
+## 🛠️ Tech Stack
 
-<!--
-**priyanka-b-aiml/priyanka-b-aiml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,java" />
+</p>
 
-Here are some ideas to get you started:
+### 🌐 Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🗄️ Database & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- 🐍 Python
+- ☕ Java
+- 🧩 Data Structures & Algorithms
+- 🗃️ SQL
+- 🤖 Machine Learning
+- 📊 NumPy & Pandas
+- 🌐 Full-Stack Web Development
+- ☁️ AWS
