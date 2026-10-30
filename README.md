@@ -1,139 +1,128 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E6E6FA:C8A2C8:B57EDC:D8BFD8&height=220&section=header&text=Priyanka%20Balamurugan&fontSize=38&fontColor=4B0082&animation=fadeIn&fontAlignY=35&desc=Artificial%20Intelligence%20%7C%20Machine%20Learning%20%7C%20Software%20Development&descAlignY=58&descSize=14&descColor=4B0082" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A102B,30:2E1065,65:6D28D9,100:A855F7&height=250&section=header&text=PRIYANKA%20BALAMURUGAN&fontSize=38&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=ARTIFICIAL%20INTELLIGENCE%20%7C%20MACHINE%20LEARNING&descAlignY=58&descSize=14&descColor=D8B4FE" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=B57EDC&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+ML+Student;Aspiring+AI%2FML+Engineer;Learning+%7C+Building+%7C+Growing;Turning+Ideas+Into+Projects" alt="Typing SVG" />
-
-🎓 **Artificial Intelligence & Machine Learning Student**
-
-🏫 Rajalakshmi Engineering College, Chennai
-
-💜 Passionate about AI, Machine Learning & Software Development
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Student;Aspiring+AI%2FML+Engineer;Building+Ideas+Into+Reality;Learn.+Build.+Innovate." alt="Typing SVG" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/FOCUS-Artificial%20Intelligence-E6E6FA?style=for-the-badge&labelColor=9370DB" />
-<img src="https://img.shields.io/badge/STATUS-Always%20Learning-D8BFD8?style=for-the-badge&labelColor=9370DB" />
-<img src="https://img.shields.io/badge/GOAL-Aspiring%20AI%20Engineer-C8A2C8?style=for-the-badge&labelColor=9370DB" />
-
-<br/><br/>
-
 <a href="https://github.com/priyanka-b-aiml">
-<img src="https://img.shields.io/badge/GitHub-Priyanka--B--AIML-9370DB?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Priyanka--B--AIML-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+<img src="https://img.shields.io/badge/FOCUS-Artificial%20Intelligence-2E1065?style=for-the-badge&labelColor=1A102B" />
+<img src="https://img.shields.io/badge/GOAL-Aspiring%20AI%20Engineer-6D28D9?style=for-the-badge&labelColor=1A102B" />
 
 </div>
 
 ---
 
-<h2 align="center">💜 About Me</h2>
+<h2 align="center">✦ ABOUT ME ✦</h2>
 
-<img align="right" alt="Coding Animation" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="240" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" />
 
-🎓 Currently pursuing Artificial Intelligence & Machine Learning.
+🎓 Artificial Intelligence & Machine Learning student
 
-🏫 Studying at Rajalakshmi Engineering College, Chennai.
+🏫 Rajalakshmi Engineering College, Chennai
 
-🤖 Exploring Artificial Intelligence and Machine Learning.
+🤖 Interested in AI, ML and intelligent applications
 
-💻 Building programming and problem-solving skills.
+💻 Strengthening programming and problem-solving skills
 
-🧩 Practising Data Structures & Algorithms.
+🧩 Practising Data Structures & Algorithms
 
-🌱 Learning by developing practical projects.
+🌱 Learning through practical projects
 
-🚀 Preparing for internships and future placements.
+🚀 Preparing for internships and placements
 
-✨ Believing in continuous learning and consistent growth.
+✨ Focused on continuous growth and innovation
 
 <br clear="right"/>
 
 ---
 
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
+<h2 align="center">✦ TECH STACK ✦</h2>
 
-<h3 align="center">💻 Programming Languages</h3>
+<h3 align="center">Programming Languages</h3>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/C-E6E6FA?style=for-the-badge&logo=c&logoColor=4B0082" />
-<img src="https://img.shields.io/badge/Java-D8BFD8?style=for-the-badge&logo=openjdk&logoColor=4B0082" />
-<img src="https://img.shields.io/badge/Python-C8A2C8?style=for-the-badge&logo=python&logoColor=4B0082" />
+<img src="https://img.shields.io/badge/C-1A102B?style=for-the-badge&logo=c&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Java-1A102B?style=for-the-badge&logo=openjdk&logoColor=C4B5FD" />
+<img src="https://img.shields.io/badge/Python-1A102B?style=for-the-badge&logo=python&logoColor=A78BFA" />
 
 </div>
 
-<h3 align="center">🌐 Web Development</h3>
+<h3 align="center">Web Development</h3>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/HTML5-E6E6FA?style=for-the-badge&logo=html5&logoColor=4B0082" />
-<img src="https://img.shields.io/badge/CSS3-D8BFD8?style=for-the-badge&logo=css3&logoColor=4B0082" />
-<img src="https://img.shields.io/badge/JavaScript-C8A2C8?style=for-the-badge&logo=javascript&logoColor=4B0082" />
-<img src="https://img.shields.io/badge/React-E6E6FA?style=for-the-badge&logo=react&logoColor=4B0082" />
+<img src="https://img.shields.io/badge/HTML5-1A102B?style=for-the-badge&logo=html5&logoColor=C4B5FD" />
+<img src="https://img.shields.io/badge/CSS3-1A102B?style=for-the-badge&logo=css3&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/JavaScript-1A102B?style=for-the-badge&logo=javascript&logoColor=D8B4FE" />
+<img src="https://img.shields.io/badge/React-1A102B?style=for-the-badge&logo=react&logoColor=C4B5FD" />
 
 </div>
 
-<h3 align="center">🗄️ Database & Tools</h3>
+<h3 align="center">Database & Tools</h3>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/MySQL-D8BFD8?style=for-the-badge&logo=mysql&logoColor=4B0082" />
-<img src="https://img.shields.io/badge/Git-E6E6FA?style=for-the-badge&logo=git&logoColor=4B0082" />
-<img src="https://img.shields.io/badge/GitHub-C8A2C8?style=for-the-badge&logo=github&logoColor=4B0082" />
-<img src="https://img.shields.io/badge/VS%20Code-D8BFD8?style=for-the-badge&logo=visualstudiocode&logoColor=4B0082" />
+<img src="https://img.shields.io/badge/MySQL-1A102B?style=for-the-badge&logo=mysql&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Git-1A102B?style=for-the-badge&logo=git&logoColor=C4B5FD" />
+<img src="https://img.shields.io/badge/GitHub-1A102B?style=for-the-badge&logo=github&logoColor=D8B4FE" />
+<img src="https://img.shields.io/badge/VS_Code-1A102B?style=for-the-badge&logo=visualstudiocode&logoColor=A78BFA" />
 
 </div>
 
-<h3 align="center">🤖 AI & Machine Learning</h3>
+<h3 align="center">AI & Data Science</h3>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Machine%20Learning-E6E6FA?style=for-the-badge&logoColor=4B0082" />
-<img src="https://img.shields.io/badge/NumPy-D8BFD8?style=for-the-badge&logo=numpy&logoColor=4B0082" />
-<img src="https://img.shields.io/badge/Pandas-C8A2C8?style=for-the-badge&logo=pandas&logoColor=4B0082" />
+<img src="https://img.shields.io/badge/Machine_Learning-2E1065?style=for-the-badge&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/NumPy-2E1065?style=for-the-badge&logo=numpy&logoColor=C4B5FD" />
+<img src="https://img.shields.io/badge/Pandas-2E1065?style=for-the-badge&logo=pandas&logoColor=D8B4FE" />
 
 </div>
 
 ---
 
-<h2 align="center">🌷 Currently Learning</h2>
+<h2 align="center">✦ CURRENTLY LEARNING ✦</h2>
 
 <div align="center">
 
-| 💜 Area | 🌸 Learning Goals |
+| Area | Learning Focus |
 |:---|:---|
 | ☕ Java | Object-Oriented Programming |
 | 🐍 Python | Programming fundamentals |
 | 🧩 DSA | Data Structures & Algorithms |
-| 🗃️ SQL | Database management with MySQL |
+| 🗄️ SQL | MySQL and database concepts |
 | 🤖 AI/ML | Machine Learning fundamentals |
-| 📊 Data Science | NumPy & Pandas |
-| 🌐 Web Development | React & Full-Stack Development |
+| 📊 Data Science | NumPy and Pandas |
+| 🌐 Development | React and Full-Stack Development |
 | ☁️ Cloud | AWS fundamentals |
 
 </div>
 
 ---
 
-<h2 align="center">📂 Featured Projects</h2>
+<h2 align="center">✦ FEATURED PROJECTS ✦</h2>
 
-### 💜 Skill Gap Analyzer
+<h3>01. 💜 Skill Gap Analyzer</h3>
 
-An evolving project idea to help learners identify the skills required for a target career, discover missing skills, and follow a personalized learning roadmap.
+A project focused on helping learners identify the skills needed for their target careers and discover what to learn next.
 
-**Planned features:**
 - 🎯 Career-based skill analysis
 - 📊 Skill gap visualization
 - 🧭 Personalized learning roadmap
 - 🚀 Career readiness assessment
 
-**Technologies:** HTML, CSS, JavaScript, with AI/ML integration planned.
+**Technologies:** HTML, CSS, JavaScript; AI/ML integration planned.
 
-### 💜 Digital Queue Management System
+<h3>02. 💜 Digital Queue Management System</h3>
 
-A college team project designed to simplify queue management through digital token generation and live queue status tracking.
+A college team project designed to simplify queue management through digital token generation and queue status tracking.
 
-**Key features:**
 - 🎫 Digital token generation
 - 📊 Live queue status
 - 🏫 Service selection
@@ -143,33 +132,33 @@ A college team project designed to simplify queue management through digital tok
 
 ---
 
-<h2 align="center">📊 GitHub Statistics</h2>
+<h2 align="center">✦ GITHUB STATISTICS ✦</h2>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=priyanka-b-aiml&show_icons=true&theme=default&bg_color=E6E6FA&title_color=6A0DAD&text_color=4B0082&icon_color=9370DB&border_color=C8A2C8" alt="GitHub Statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=priyanka-b-aiml&show_icons=true&bg_color=1A102B&title_color=C4B5FD&text_color=E9D5FF&icon_color=A855F7&border_color=6D28D9&hide_border=false" alt="GitHub Stats" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanka-b-aiml&layout=compact&theme=default&bg_color=E6E6FA&title_color=6A0DAD&text_color=4B0082&border_color=C8A2C8" alt="Top Languages" />
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=priyanka-b-aiml&background=E6E6FA&ring=9370DB&fire=B57EDC&currStreakLabel=6A0DAD&sideLabels=6A0DAD&currStreakNum=4B0082&sideNums=4B0082&dates=9370DB&border=C8A2C8" alt="GitHub Contribution Streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanka-b-aiml&layout=compact&bg_color=1A102B&title_color=C4B5FD&text_color=E9D5FF&border_color=6D28D9&hide_border=false" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=priyanka-b-aiml&theme=flat&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
+<img width="75%" src="https://streak-stats.demolab.com?user=priyanka-b-aiml&background=1A102B&ring=A855F7&fire=C4B5FD&currStreakLabel=C4B5FD&sideLabels=D8B4FE&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A78BFA&border=6D28D9" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=priyanka-b-aiml&theme=discord&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
 
 </div>
 
 ---
 
-<h2 align="center">🎯 My Goals</h2>
+<h2 align="center">✦ MY GOALS ✦</h2>
 
 <div align="center">
 
 💜 Strengthen programming fundamentals
 
-🌸 Improve DSA and problem-solving skills
+✦ Improve DSA and problem-solving skills
 
 🤖 Build practical AI/ML projects
 
@@ -187,16 +176,16 @@ A college team project designed to simplify queue management through digital tok
 
 ---
 
-<h2 align="center">🌐 Let's Connect</h2>
+<h2 align="center">✦ CONNECT WITH ME ✦</h2>
 
 <div align="center">
 
 <a href="https://github.com/priyanka-b-aiml">
-<img src="https://img.shields.io/badge/GitHub-9370DB?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-1A102B?style=for-the-badge&logo=github&logoColor=C4B5FD" />
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-B57EDC?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-2E1065?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
 </a>
 
 </div>
@@ -205,10 +194,10 @@ A college team project designed to simplify queue management through digital tok
 
 <div align="center">
 
-### 💜 Learning today. Building tomorrow. 🌷
+**✦ LEARN WITH PURPOSE. BUILD WITH PASSION. ✦**
 
-*Every expert was once a beginner.*
+<sub>Artificial Intelligence • Machine Learning • Innovation</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D8BFD8:C8A2C8:B57EDC:E6E6FA&height=130&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A102B,30:2E1065,65:6D28D9,100:A855F7&height=140&section=footer" width="100%" />
 
 </div>
